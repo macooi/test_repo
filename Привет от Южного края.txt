@@ -1,0 +1,5 @@
+</hi> 
+----Vania=name
+----goodpeople=var
+----start program: name=var
+<end>
